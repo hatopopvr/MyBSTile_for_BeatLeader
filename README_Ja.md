@@ -1,13 +1,10 @@
 # MyBSTile_for_BeatLeader
-[BeatLeader]((https://www.beatleader.xyz/dashboard)のデータを用いてBeatSaberのプレイ履歴データのタイル表示を行う[Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/MyBSTile_for_BeatLeader/blob/main/MyBSTile_for_BeatLeader_En.ipynb) です。  
+[BeatLeader](https://www.beatleader.xyz/dashboard)のデータを用いてBeatSaberのプレイ履歴データのタイル表示を行う[Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/MyBSTile_for_BeatLeader/blob/main/MyBSTile_for_BeatLeader_En.ipynb) です。  
 [ScoreSaber](https://scoresaber.com/)用は[MyBSTile](https://github.com/hatopopvr/MyBSTile)を使用ください。
 
 ![Tile](images/images_001.jpg)
 
 ## データ元
-- Scoreデータ元 - ScoreSaber Public API - [doc](https://docs.scoresaber.com/)  
-- Cover画像元 - https://cdn.scoresaber.com/covers/{hash}.png  
-
 - Scoreデータ元 - BeatLeader-Server v1 API - [doc](https://api.beatleader.xyz/swagger/index.html)  
 - Cover画像元 - https://eu.cdn.beatsaver.com/{hash}.jpg
 - Player画像元 - https://cdn.beatleader.xyz/assets/{player_id}.png
