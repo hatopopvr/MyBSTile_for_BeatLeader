@@ -15,7 +15,7 @@ For [ScoreSaber](https://scoresaber.com/) -> [MyBSTile](https://github.com/hatop
 ## how to use
 
 1. When the [notebook](https://colab.research.google.com/github/hatopopvr/MyBSTile_for_BeatLeader/blob/main/MyBSTile_for_BeatLeader_En.ipynb)  opens, input information below.
- - `player_id` : enter the ScoreSaber PlayerID 
+ - `player_id` : enter the BeatLeader PlayerID (=ScoreSaberID).
  - `sort_type` : Select `pp` or `date` (or etc.) as the content to be retrieved. 
  - `player_visible` : Whether to include player images in tiles.
  
