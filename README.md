@@ -9,7 +9,7 @@ For [ScoreSaber](https://scoresaber.com/) -> [MyBSTile](https://github.com/hatop
 
 ## Data
 <b>Data</b>
-- Score Data form BeatLeader-Server v1 API - [doc](https://docs.scoresaber.com/)  
+- Score Data form BeatLeader-Server v1 API - [doc](https://api.beatleader.xyz/swagger/index.html)  
 - Cover Image from - https://eu.cdn.beatsaver.com/{hash}.jpg
 - Player Image from - https://cdn.beatleader.xyz/assets/{player_id}.png
 ## how to use
